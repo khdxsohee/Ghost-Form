@@ -15,7 +15,7 @@
 
   <br/>
 
-  [Live Demo](#) • [Documentation](#) • [Report Bug](https://github.com/khdcoder/Ghost-Form/issues) • [Request Feature](https://github.com/khdcoder/Ghost-Form/issues)
+  [Live Demo](#) • [Documentation](#) • [Report Bug](https://github.com/khdxsohee/Ghost-Form/issues) • [Request Feature](https://github.com/khdxsohee/Ghost-Form/issues)
 
 </div>
 
@@ -76,7 +76,7 @@ Make sure you have the following installed:
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/khdcoder/Ghost-Form.git
+   git clone https://github.com/khdxsohee/Ghost-Form.git
    cd Ghost-Form
    ```
 
@@ -170,7 +170,7 @@ Distributed under the **MIT License**. See `LICENSE` for more information.
 ---
 
 <div align="center">
-  <sub>Built with ❤️ by <a href="https://github.com/khdcoder">khdcoder</a></sub>
+  <sub>Built with ❤️ by <a href="https://github.com/khdxsohee">khdxsohee</a></sub>
 </div>
 
 ---
